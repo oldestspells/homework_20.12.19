@@ -68,6 +68,7 @@ function registrationBtnLisener(){
 }
 
 
+
 //обработчки кнопки sing in
 function singInBtnLisener(){
     $('#submitBtn').click(function () {

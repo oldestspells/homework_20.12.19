@@ -432,6 +432,7 @@ header {
     padding: 20px;
     border: 2px solid black;
 }
+
 .modal-content>p, .modal-content>span{
     color: white;
 }
